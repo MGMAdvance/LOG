@@ -1,2 +1,2 @@
 # LOG
-Arquivo da aula de Lógica de Programação
+Arquivo da aula de Lógica de Programação.
